@@ -2,7 +2,7 @@
   "cash": 50000,
   "bank": 50000,
   "crypto": 5000,
-"discord": "https://discord.gg/6EPNJ2z8qB"
+"discord": "https://discord.gg/6EPNJ2z8qB",
 "name": "Yuvraj Verma"
 
 }
